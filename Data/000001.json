@@ -1,0 +1,639 @@
+[
+  {
+    "productID":"0000001",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "24 inch",
+    "under": {"10000":"1"},
+    "price": "Rs 9999",
+    "brand": "Kevin",
+    "productName": "KN24PRO",
+   
+    "KeyFeatures" :
+     {
+      "Size":"24",
+      "Resolution":"720",
+      "Smart features": "supports all major OTT platforms",
+      "Display":"color range of 16.7 million colors",
+      "HD resolution": "HD ready 1366 x 768",
+      "Storage":"512 RAM, 4 GB ROM",
+      "Hardware":"2 USB 2 HDMI ports",
+      "Headphone jack":"wireless headphone support",
+      "Power": "consumption 40W (max)",
+      "Warranty": "1 year"
+     }
+  },
+  {
+    "productID":"0000002",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "24 inch",
+    "under": {"10000":"2"},
+    "price": "Rs 7999",
+    "brand": "eAirtec",
+    "productName": "‎24 DJ Smart",
+   
+    "keyFeatures" :
+     {
+      "Size":"24",
+      "Resolution":"720",
+      "Smart features": "supports all major OTT platforms",
+      "Storage":"512 RAM, 4 GB ROM",
+      "Hd resolution": "HD ready 1366 x 768",
+      "Hardware":"2 USB, 1 HDMI port",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+     }
+  },
+  {
+    "productID":"vwsmart",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "24 inch",
+    "under": {"10000":"3"},
+    "price": "Rs 8888",
+    "brand": "Visio World",
+    "productName": "VW24S",
+   
+    "keyFeatures" :
+     {
+      "Size":"24",
+      "Resolution":"720",
+      "Smart features": "supports all major OTT platforms",
+      "Storage":"512 RAM, 4 GB ROM",
+      "HD resolution": "HD ready 1366 x 768",
+      "Hardware":"2 USB, 1 HDMI port",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+     }
+  },
+  {
+    "productID":"aisen",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "24 inch",
+    "under": {"10000":"4"},
+    "price": "Rs 7500",
+    "brand": "AISEN",
+    "productName": "A24HDN534",
+   
+    "keyFeatures" :
+     {
+      "Size":"24",
+      "Resolution":"720",
+      "Smart features": "wifi enabled screen mirroring",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Hardware":"2 USB, 2 HDMI port",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+     }
+  },
+  {
+    "productID":"foxskysmart",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "24 inch",
+    "under": {"10000":"5"},
+    "price": "Rs 7499",
+    "brand": "Foxsky",
+    "productName": "24FSNS",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"1080",
+      "Smart features": "wifi enabled",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Hardware":"1 USB,  HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"mi4a",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"15000":"1"},
+    "price": "Rs 14999",
+    "brand": "mi",
+    "productName": "L32M5-AL",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Android, Hotstar, Voot, Sony Liv, Sun NXT, Zee5, Hungama Play, ALT Balaji, VIU, Play Store, etc.",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Storage":"1 GB RAM, 8 GB ROM",
+      "Hardware":"2 USB, 3 HDMI, ethernet ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"amazonsmart",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"15000":"2"},
+    "price": "Rs 14999",
+    "brand": "amazon",
+    "productName": "AB32E10SSL",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Fire TV OS, Prime Video, Netflix, Disney + Hotstar, YouTube, etc.",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Storage":"1 GB RAM, 8 GB ROM",
+      "Hardware":"2 USB, 2 HDMI, ethernet ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"realmesmart",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"15000":"3"},
+    "price": "Rs 14999",
+    "brand": "realme",
+    "productName": "RMV2101",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Android (Google Assistant & Chromecast in-built) Youtube, Hungama, ErosNow, etc.",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Storage":"512 MB RAM, 4 GB ROM",
+      "Hardware":"2 USB, 2 HDMI, ethernet ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"acerpsmart",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"15000":"4"},
+    "price": "Rs 13999",
+    "brand": "acer",
+    "productName": "AR32AP2841HD",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Netflix, YouTube, Google Play Movies and TV, Google Play Store, Prime Video, Disney+Hotstar, etc.",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Storage":"1.5 GB RAM, 8 GB ROM",
+      "Hardware":"2 USB, 2 HDMI, ethernet ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"ifflaconsmart",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"15000":"5"},
+    "price": "Rs 11,990",
+    "brand": "IFFALCON",
+    "productName": "32F2A",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "iFFALCON App Store, Youtube, Netflix, Eros Now, etc.Google Android TV UI",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD ready 1366 x 768",
+      "Storage":"1.5 GB 8 GB ROM",
+      "Hardware":"2 USB, 2 HDMI, ethernet ",
+      "Refresh rate":"60 hZ",
+      "Sound": "10Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"realme",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"20000":"1"},
+    "price": "Rs 17,999",
+    "brand": "realme",
+    "productName": "RMV2003",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"1080",
+      "Smart features": "Netflix, Prime Video, Disney+Hotstar, Youtube, etc.Google Assistant, Chrome Cast Built-in,wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "Full HD, 1080 x 1920",
+      "Storage":"1 GB RAM 8 GB ROM",
+      "Hardware":"2 USB, 3 HDMI, 1 headphone ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24Watts, 4 speakers",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"haier",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"20000":"3"},
+    "price": "Rs 18,290",
+    "brand": "HAIER ",
+    "productName": "LE32K6600GA",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Netflix, Prime Video, Google Assistant, Chrome Cast Built-in,wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "Full HD, 1366 x 768",
+      "Storage":"1 GB 8 GB ROM",
+      "Hardware":"2 USB, 3 HDMI, 1 headphone ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts, 2 speakers",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"oneplus",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"20000":"4"},
+    "price": "Rs 15,999",
+    "brand": "oneplus ",
+    "productName": "32Y1",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android Pie, Google Assistant, Chrome Cast Built-in,wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "Full HD, 1366 x 768",
+      "Storage":"1 GB 8 GB ROM",
+      "Hardware":"2 USB, 2 HDMI, 1 headphone ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20Watts, 2 speakers",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"samsung",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"20000":"5"},
+    "price": "Rs 17,490",
+    "brand": "samsung ",
+    "productName": "UA32T4340AKXXL",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD Ready, 1366 x 768",
+      "Storage":"1.5 GB 8 GB ROM",
+      "Hardware":"1 USB, 2 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20 Watts, 2 speakers",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"motorola",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "32 inch",
+    "under": {"20000":"2"},
+    "price": "Rs 17,490",
+    "brand": "motorola ",
+    "productName": "32SAHDME",
+   
+    "keyFeatures" :
+     {
+      "Size":"32",
+      "Resolution":"720",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube,Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "HD Ready, 1366 x 768",
+      "Storage":"2 GB 16 GB ROM",
+      "Hardware":"2 USB, 2 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "40 Watts, 2 speakers",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"thomson",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"25000":"1"},
+    "price": "Rs 23,999",
+    "brand": "motorola ",
+    "productName": "43PATH4545",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"4K",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube,Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "3840 x 2160 pixels",
+      "Storage":"2 GB 8 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali-450",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"vupix",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"25000":"2"},
+    "price": "Rs 23,320",
+    "brand": "motorola ",
+    "productName": "43PX",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"4K",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube,Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "3840 x 2160 pixels",
+      "Storage":"1 GB 4 GB ROM",
+      "Processor Cores": "dual Core CPU",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"moto",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "40 inch",
+    "under": {"25000":"3"},
+    "price": "Rs 24,999",
+    "brand": "Motorola  ",
+    "productName": "40SAFHDME",
+   
+    "keyFeatures" :
+     {
+      "Size":"40",
+      "Resolution":"Full HD",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "Full HD, 1920 x 1080 pixels",
+      "Storage":"2 GB 16 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "G52 Graphic Engine",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "40 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"mi4c",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"25000":"4"},
+    "price": "Rs 24,999",
+    "brand": "mi",
+    "productName": "L43M6-INC",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"Full HD",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "Full HD, 1920 x 1080 pixels",
+      "Storage":"1 GB 8 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali-450 MP3",
+      "Hardware":"3 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"oneplus",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "40 inch",
+    "under": {"25000":"5"},
+    "price": "Rs 22,499",
+    "brand": "Oneplus ",
+    "productName": "40FA1A00",
+   
+    "keyFeatures" :
+     {
+      "Size":"40",
+      "Resolution":"Full HD",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "Full HD, 1920 x 1080 pixels",
+      "Storage":"1 GB 8 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali-470 x 3",
+      "Hardware":"2 USB, 2 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "20 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"iffalcon",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "50 inch",
+    "under": {"30000":"1"},
+    "price": "Rs 28,999",
+    "brand": "IFFALCON ",
+    "productName": "50K61",
+   
+    "keyFeatures" :
+     {
+      "Size":"50",
+      "Resolution":"4k",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "4K Resolution, 3840 x 2160 pixels",
+      "Storage":"2 GB 16 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali-470",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"iff",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"30000":"2"},
+    "price": "Rs 27,999",
+    "brand": "IFFALCON ",
+    "productName": "43K71",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"4k",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "4K Resolution, 3840 x 2160 pixels",
+      "Storage":"2 GB 16 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali-470",
+      "Hardware":"1 USB, 2 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "30 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"hisense ",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"30000":"3"},
+    "price": "Rs 28,990",
+    "brand": "Hisense ",
+    "productName": "43A6GE",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"4k",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "4K Resolution, 3840 x 2160 pixels",
+      "Storage":"2 GB 16 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali 470MP",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"realme ",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"30000":"4"},
+    "price": "Rs 28,990",
+    "brand": "realme ",
+    "productName": "RMV2004",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"4k",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "4K Resolution, 3840 x 2160 pixels",
+      "Storage":"2 GB 16 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mali-G52MC1",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24 Watts",
+      "Warranty": "1 year"
+    
+     }
+  },
+  {
+    "productID":"motorola ",
+    "category":"electronics",
+    "subCategory": "tv",
+    "productType": "43 inch",
+    "under": {"30000":"5"},
+    "price": "Rs 29,999",
+    "brand": "motorola ",
+    "productName": "43SAUHDMG",
+   
+    "keyFeatures" :
+     {
+      "Size":"43",
+      "Resolution":"4k",
+      "Smart features": "Netflix, Prime Video, hotstar, youtube, Android (Google Assistant & Chromecast in-built) wifi, bluetooth",
+      "Viewing angle":"178 degree",
+      "HD resolution": "4K Resolution, 3840 x 2160 pixels",
+      "Storage":"2 GB 32 GB ROM",
+      "Processor Cores": "Quad Core CPU",
+      "Graphics Processor": "Mediatek CA53 Processor",
+      "Hardware":"2 USB, 3 HDMI ",
+      "Refresh rate":"60 hZ",
+      "Sound": "24 Watts",
+      "Warranty": "1 year"
+    
+     }
+  }
+  
+]
